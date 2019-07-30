@@ -3,7 +3,7 @@ import React,{Component} from 'react';
 
 const Header = () => (
 
-  <div className="ui menu">
+<div className="ui menu">
   <div className="header item">
     Our Company
   </div>
